@@ -15,5 +15,6 @@ public class PlaceTest {
     @Test
     public void setHashcode() {
        fail();
+       //test
     }
 }
